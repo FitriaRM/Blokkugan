@@ -15,9 +15,3 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
-
-backend:
-  name: git-gateway
-  branch: master
-media_folder: "static/images"
-public_folder: "/images"
