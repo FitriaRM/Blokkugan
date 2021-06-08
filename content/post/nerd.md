@@ -1,6 +1,6 @@
 ---
 title: nerd
-excerpt: about life
+excerpt: life is unique
 hero: https://www.google.com/search?q=darkness&safe=strict&sxsrf=ALeKk02bShrTm1DQpz9kANobLrJWPaXa4Q:1612325933730&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX0aqU7szuAhWcIbcAHQ9zC4AQ_AUoAXoECBMQAw&biw=1093&bih=465&dpr=1.25
 authors:
   - xx
